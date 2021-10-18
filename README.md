@@ -1,4 +1,7 @@
 # GaitPart： Temporal Part-based Model for Gait Recognition
+***！！！ IMPORTANT ！！！***
+***Check [OpenGait](https://github.com/ShiqiYu/OpenGait) to get the full codes of GaitPart！！！***
+
 GaitPart is a CVPR2020 paper, and some of the source code is already opened while the rest will be released as soon as possible!
 ## Updates
 * Some of the source code is already opened, enjoy it ~
